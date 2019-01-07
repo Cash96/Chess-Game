@@ -1,5 +1,6 @@
 This page has the possible outcomes of what I would like to modify or add.
 
-1. GUI (convert the simple terminal game play to a window with graphics)
-2. Add optional help menu.
-3. Add save-able games to close and reopen at will.
+1. Rename Variables for more consictancy and legability 
+2. GUI (convert the simple terminal game play to a window with graphics)
+3. Add optional help menu.
+4. Add save-able games to close and reopen at will.
